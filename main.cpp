@@ -1,9 +1,8 @@
-//
 //  main.cpp
 //  Chess
 //
-//  Created by Ethan Quinn on 3/11/23.
-//
+//  Created by Ethan on 3/11/23.
+//  To be completed at a later date...
 
 #include <iomanip>
 #include "board.hpp"
